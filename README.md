@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kodalinikhil
-- 🌱 I’m currently taking CS50x on edx.
 - You can reach me through email.
 
 <!---
